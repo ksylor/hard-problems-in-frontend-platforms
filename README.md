@@ -31,5 +31,8 @@ https://web.dev/vitals/
 A Complete Guide to Performance Budgets - Tammy Everts
 https://www.speedcurve.com/blog/performance-budgets/
 
+Interop 2023 Dashboard
+https://wpt.fyi/interop-2023
+
 The Unbearable Weight of Massive Javascript - Ryan Townsend 
 https://speakerdeck.com/ryantownsend/the-unbearable-weight-of-massive-javascript
