@@ -36,3 +36,6 @@ https://wpt.fyi/interop-2023
 
 The Unbearable Weight of Massive Javascript - Ryan Townsend 
 https://speakerdeck.com/ryantownsend/the-unbearable-weight-of-massive-javascript
+
+The Design Systems Handbook - Marco Suarez, Jina Anne, Katie Sylor-Miller, Diana Mounter, and Roy Stanfield
+https://www.designbetter.co/design-systems-handbook
