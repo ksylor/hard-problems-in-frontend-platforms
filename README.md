@@ -1,20 +1,22 @@
 # Hard Problems in Frontend Platforms
 Links and resources for my talk "Hard Problems in Frontend Platforms"
 
-Happy Browser, Happy User - My talk on how web browsers work
+## Links mentioned in the presentation
+
+Happy Browser, Happy User - Katie Sylor-Miller
 https://github.com/ksylor/happy-browser-happy-user
 
 W3C Web Platform Design Principles
 https://www.w3.org/TR/design-principles
+
+Islands Architecture - Jason Miller
+https://jasonformat.com/islands-architecture/
 
 Beaconing in Practice: An Update on Reliability and the Pending Beacon API - Nic Jansma
 https://nicj.net/beaconing-in-practice-an-update-on-reliability-and-the-pending-beacon-api/
 
 The Great Divide - Chris Coyier
 https://css-tricks.com/the-great-divide/
-
-front-of-the-front-end and back-of-the-front-end web development - Brad Frost
-https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/
 
 ASPIRE: Ideals to Aspire to When Building Websites - Scott Jehl
 https://www.filamentgroup.com/lab/aspire/
@@ -39,3 +41,17 @@ https://speakerdeck.com/ryantownsend/the-unbearable-weight-of-massive-javascript
 
 The Design Systems Handbook - Marco Suarez, Jina Anne, Katie Sylor-Miller, Diana Mounter, and Roy Stanfield
 https://www.designbetter.co/design-systems-handbook
+
+## Additional reading
+
+Designing Intrinsic Layouts - Jenn Simmons
+https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
+
+Patterns.dev - Lydia Hallie and Addy Osmani
+https://www.patterns.dev/
+
+front-of-the-front-end and back-of-the-front-end web development - Brad Frost
+https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/
+
+Responsible Javascript - Jeremy Wagner
+https://responsiblejs.dev/
