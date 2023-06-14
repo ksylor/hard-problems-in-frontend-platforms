@@ -30,6 +30,9 @@ https://v8.dev/blog/cost-of-javascript-2019
 Core Web Vitals - Philip Walton
 https://web.dev/vitals/
 
+The Global Baseline, 2022 - Alex Russell
+https://www.youtube.com/watch?v=BmiVevOUvho
+
 A Complete Guide to Performance Budgets - Tammy Everts
 https://www.speedcurve.com/blog/performance-budgets/
 
