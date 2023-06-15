@@ -15,6 +15,9 @@ https://notlaura.com/css-is-a-programming-language/
 Islands Architecture - Jason Miller
 https://jasonformat.com/islands-architecture/
 
+Mobius: Adopting JSX While Prioritizing User Experience - Allie Jones
+https://www.etsy.com/codeascraft/mobius-adopting-jsx-while-prioritizing-user-experience
+
 Beaconing in Practice: An Update on Reliability and the Pending Beacon API - Nic Jansma
 https://nicj.net/beaconing-in-practice-an-update-on-reliability-and-the-pending-beacon-api/
 
