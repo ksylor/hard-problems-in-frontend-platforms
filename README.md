@@ -9,14 +9,14 @@ https://github.com/ksylor/happy-browser-happy-user
 W3C Web Platform Design Principles
 https://www.w3.org/TR/design-principles
 
+CSS is, in Fact, Awesome - Jim Nielsen
+https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/
+
 Islands Architecture - Jason Miller
 https://jasonformat.com/islands-architecture/
 
 Beaconing in Practice: An Update on Reliability and the Pending Beacon API - Nic Jansma
 https://nicj.net/beaconing-in-practice-an-update-on-reliability-and-the-pending-beacon-api/
-
-The Great Divide - Chris Coyier
-https://css-tricks.com/the-great-divide/
 
 ASPIRE: Ideals to Aspire to When Building Websites - Scott Jehl
 https://www.filamentgroup.com/lab/aspire/
@@ -33,19 +33,13 @@ https://web.dev/vitals/
 The Global Baseline, 2022 - Alex Russell
 https://www.youtube.com/watch?v=BmiVevOUvho
 
-A Complete Guide to Performance Budgets - Tammy Everts
-https://www.speedcurve.com/blog/performance-budgets/
-
-Interop 2023 Dashboard
-https://wpt.fyi/interop-2023
-
 The Unbearable Weight of Massive Javascript - Ryan Townsend 
 https://speakerdeck.com/ryantownsend/the-unbearable-weight-of-massive-javascript
 
-The Design Systems Handbook - Marco Suarez, Jina Anne, Katie Sylor-Miller, Diana Mounter, and Roy Stanfield
-https://www.designbetter.co/design-systems-handbook
-
 ## Additional reading
+
+The Great Divide - Chris Coyier
+https://css-tricks.com/the-great-divide/
 
 Designing Intrinsic Layouts - Jenn Simmons
 https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
@@ -58,3 +52,12 @@ https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end
 
 Responsible Javascript - Jeremy Wagner
 https://responsiblejs.dev/
+
+The Design Systems Handbook - Marco Suarez, Jina Anne, Katie Sylor-Miller, Diana Mounter, and Roy Stanfield
+https://www.designbetter.co/design-systems-handbook
+
+A Complete Guide to Performance Budgets - Tammy Everts
+https://www.speedcurve.com/blog/performance-budgets/
+
+Interop 2023 Dashboard
+https://wpt.fyi/interop-2023
