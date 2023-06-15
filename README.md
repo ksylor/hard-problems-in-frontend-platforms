@@ -9,8 +9,8 @@ https://github.com/ksylor/happy-browser-happy-user
 W3C Web Platform Design Principles
 https://www.w3.org/TR/design-principles
 
-CSS is, in Fact, Awesome - Jim Nielsen
-https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/
+CSS is a Declarative Language - Lara Schenk
+https://notlaura.com/css-is-a-programming-language/
 
 Islands Architecture - Jason Miller
 https://jasonformat.com/islands-architecture/
@@ -40,6 +40,9 @@ https://speakerdeck.com/ryantownsend/the-unbearable-weight-of-massive-javascript
 
 The Great Divide - Chris Coyier
 https://css-tricks.com/the-great-divide/
+
+CSS is, in Fact, Awesome - Jim Nielsen
+https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/
 
 Designing Intrinsic Layouts - Jenn Simmons
 https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
